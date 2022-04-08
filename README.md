@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderBoots
 - 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently learning about Data Analytics and Machine Learning using Python
+- 🌱 I’m currently learning about Material Informatics and Machine Learning using Python
 - 💞️ I’m looking to collaborate on ML, Python and web based projects
 
 <!---
